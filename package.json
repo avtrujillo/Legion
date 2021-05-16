@@ -1,7 +1,7 @@
 {
-	"name": "tupperbox",
-	"description": "tupperbox bot for discord message proxying",
-	"homepage": "https://github.com/Keterr/Tupperbox/blob/master/README.md",
+	"name": "Legion",
+	"description": "Tupperbox fork for personal use",
+	"homepage": "https://github.com/avtrujillo/Legion",
 	"eslintConfig": {
 		"env": {
 			"es6": true,
